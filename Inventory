@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Kum
 if 
 [&? -eq 0]
 then 
